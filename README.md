@@ -2,6 +2,7 @@
 Official leak of source code titan stealer (whole). Includes server + client parts and admin panel.  Written in C# (.NET) with library autoloading. Admin panel written in PHP
 
 P.S Without shells and malware-code or etc!!!
+P.S 2 - Official features page: https://telegra.ph/TITAN-CORPORATION-06-04 (Needs to translate on ENG)
 
 My Telegram: @D4NTES
 
