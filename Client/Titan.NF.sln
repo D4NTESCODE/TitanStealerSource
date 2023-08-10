@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Titan.NF.Client", "Titan.NF.Client\Titan.NF.Client.csproj", "{593B3601-5B9E-4C3D-99B7-B955C5DE1613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593B3601-5B9E-4C3D-99B7-B955C5DE1613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593B3601-5B9E-4C3D-99B7-B955C5DE1613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593B3601-5B9E-4C3D-99B7-B955C5DE1613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593B3601-5B9E-4C3D-99B7-B955C5DE1613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {905BB944-ADB3-4F80-BAB5-1CF1E398FDEF}
+	EndGlobalSection
+EndGlobal
